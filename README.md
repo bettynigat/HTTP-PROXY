@@ -1,6 +1,6 @@
 # HTTP-PROXY
 
-The purpose of this project is to implement a simple web proxy that passes requests, responses, and data between a web client and a web server. 
+The purpose of this project is to implement a ***simple web proxy*** that passes requests, responses, and data between a web client and a web server. 
 
 ### HTTP 
 HTTP is the protocol used for communication on the web. It is the protocol that defines how
