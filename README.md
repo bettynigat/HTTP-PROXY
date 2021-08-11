@@ -2,11 +2,11 @@
 
 The purpose of this project is to implement a simple web proxy that passes requests, responses, and data between a web client and a web server. 
 
-###HTTP 
+### HTTP 
 HTTP is the protocol used for communication on the web. It is the protocol that defines how
 your web browser requests resources from a web server and how the server responds. 
 
-###HTTP-PROXY
+### HTTP-PROXY
 Ordinarily, **HTTP** is a client-server protocol. However, in some circumstances, it may be useful
 to introduce an intermediate entity called a [proxy](https://en.wikipedia.org/wiki/Proxy_server). Conceptually,the proxy sits between the 
 client and the server. In the simplest case, instead of sending requests directly 
