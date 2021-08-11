@@ -20,7 +20,7 @@ In ths project, we build a basic web proxy capable of:
 2. Sending requests to / Receiving responses from remote servers, and
 3. Returning data to a client.
 
-Our proxy also does the following things. 
+Our proxy also does the following things:
 - Serve multiple clients
 - Work in real web browsers
 - Support HTTP redirection functionality 
