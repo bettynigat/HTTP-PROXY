@@ -1,8 +1,4 @@
-#
-# Bethelhem Nigat NIbret
-# 20170884
-# Computer Network - Project 2
-#
+
 all: proxy 
 
 proxy : proxy.o
