@@ -1,8 +1,7 @@
 /**********************************************************/
-/* Bethelhem Nigat NIbret
-/* 20170884
-/* Computer Network - Project One
-/* Socket Programming
+
+/* proxy.c
+
 /**********************************************************/
 #include <arpa/inet.h>
 #include <errno.h>
