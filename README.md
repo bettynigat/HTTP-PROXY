@@ -8,7 +8,7 @@ your web browser requests resources from a web server and how the server respond
 
 ### HTTP-PROXY
 Ordinarily, **HTTP** is a client-server protocol. However, in some circumstances, it may be useful
-to introduce an intermediate entity called a [proxy](https://en.wikipedia.org/wiki/Proxy_server). Conceptually,the proxy sits between the 
+to introduce an intermediate entity called a [**proxy**](https://en.wikipedia.org/wiki/Proxy_server). Conceptually,the proxy sits between the 
 client and the server. In the simplest case, instead of sending requests directly 
 to the server, the client sends all its requests to the proxy. The proxy then opens a connection
 to the server and passes on the client’s request. The proxy receives a reply from the server, 
